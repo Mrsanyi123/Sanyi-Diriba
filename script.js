@@ -54,9 +54,9 @@ ScrollReveal().reveal('.home-content p , .about-content', { origin: 'left' });
 /*=================== typed js ====================*/
   
   const typed = new Typed('.multiple-text', {
-    strings: ['Fronted Developer','Tester','Full Stack Developer','Youtuber','TikToker','Player'],
-    typeSpeed:100,
-    backSpeed:100,
+    strings: ['Learning','Programming','Data Science','Web Development','Machine Learning','Artificial Inteligence'],
+    typeSpeed:70,
+    backSpeed:30,
     backDelay:1000,
     loop: true   
 });
